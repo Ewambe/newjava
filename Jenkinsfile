@@ -11,7 +11,7 @@ pipeline
                 {
                     try
                     {
-                        git 'https://github.com/krishnain/newjava.git'
+                        git 'https://github.com/Ewambe/newjava.git'
                     }
                     catch(Exception e1)
                     {
